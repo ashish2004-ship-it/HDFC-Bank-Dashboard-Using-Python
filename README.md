@@ -133,7 +133,3 @@ Volume-based analysis including:
 This project demonstrates how Python can be effectively used for financial data analysis, stock market visualization, and dashboard development. It provides practical exposure to financial analytics, technical analysis, and business intelligence concepts using real-world stock market data.
 
 ---
-
-# 👨‍💻 Author
-
-**Ashish Sali**
